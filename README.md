@@ -91,7 +91,15 @@ Weather_Station/
 | **Adafruit\_SSD1306**  | OLED driver for 128x64 I2C OLED                |
 | **DHT**                | To read temperature and humidity from DHT11    |
 | **BlynkSimpleEsp8266** | To connect with the Blynk app using ESP8266    |
+├── assets/
+   ├── weather_station.jpg
+   └── blynk_ui.png
 
+## 📷 Project Preview
+
+![Circuit Setup](Photos/Weather_Station.jpeg)
+
+![Blynk App UI](Photos/Blynk_UI.jpeg)
 
 ---
 
